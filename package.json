@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/leeggco/hapi-basic#readme",
   "dependencies": {
-    "hapi": "^18.1.0"
+    "env2": "^2.2.2",
+    "hapi": "^18.1.0",
+    "hapi-swagger": "^10.0.2",
+    "inert": "^5.1.3",
+    "package": "^1.0.1",
+    "vision": "^5.4.4"
   }
 }
