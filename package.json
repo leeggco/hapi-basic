@@ -1,0 +1,22 @@
+{
+  "name": "hapi-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeggco/hapi-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeggco/hapi-basic/issues"
+  },
+  "homepage": "https://github.com/leeggco/hapi-basic#readme",
+  "dependencies": {
+    "hapi": "^18.1.0"
+  }
+}
